@@ -1,0 +1,30 @@
+.section{
+  min-height: 100vh;
+  background-image: url(/src/asstets/image/fbeb68168463671.643ae9a9d11bd.jpg);
+  background-size: cover;
+}
+
+.h2{
+  text-align: center;
+  color:white;
+  font-size: 50px;
+  padding-top: 35px;
+  
+}
+
+.pie{
+  margin-top: 35px;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.charts{
+
+  justify-content: center;
+  display:flex;
+  
+}
+
+.charts1{
+  max-width: 300px;
+}

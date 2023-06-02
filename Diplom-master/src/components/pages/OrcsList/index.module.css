@@ -1,0 +1,44 @@
+
+.section{
+  height: 100vh;
+  background-size: cover;
+  background-image: url('/src/asstets/image/list.jpg');
+}
+
+
+
+.h2{
+  padding-top: 35px;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 400;
+  
+}
+
+.Pag{
+  
+  margin-top: 30px;
+  margin-bottom: 30px;
+  justify-content: center;
+  
+}
+
+
+/* Изменение цвета активной страницы */
+.Pag .page-item.active .page-link {
+  background-color: black;
+  border-color: black;
+}
+
+/* Изменение цвета остальных страниц */
+.Pag .page-item .page-link {
+  color: black;
+  background-color: black;
+  border-color: black;
+}
+
+
+
+
+

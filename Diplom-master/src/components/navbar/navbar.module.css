@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+.navCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.menuName{
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+ text-decoration: none;
+ margin: 10px;
+ font-size: 23px;
+};
+
+.menuName:hover{
+  color:yellow;
+}
